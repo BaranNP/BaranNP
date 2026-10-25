@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Şu anda Arisnetwork Adlı minecraft Sunucusunda Geliştirici olarak Çalışıyorum <br>👯İşbirliği yapmak istiyorum.<br>🤝 Yardım arıyorum.<br>💬 Bana Minecraft hakkında soru sorabilirsiniz <br>⚡ Eğlenceli bir insanımdır 
+🔭 Kendi Başıma Geliştirici olarak Çalışıyorum <br>👯İşbirliği yapmak istiyorum.<br>🤝 Yardım arıyorum.<br>💬 Bana Minecraft hakkında soru sorabilirsiniz <br>⚡ Eğlenceli bir insanımdır 
 
 
 ## 🌐 Socials:
